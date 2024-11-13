@@ -39,7 +39,7 @@ module.exports = {
   nodes: [
     {
         name: "Server",
-        host: "buses.sleepyinsomniac.eu.org",
+        host: "ll.sleepyinsomniac.eu.org",
         port: 80,
         password: "youshallnotpass",
         reconnectTimeout: 5000,
